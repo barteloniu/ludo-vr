@@ -1,0 +1,8 @@
+body{
+    font-family: monospace;
+    margin: 0;
+    overflow: hidden;
+}
+html{
+    background: #000;
+}
